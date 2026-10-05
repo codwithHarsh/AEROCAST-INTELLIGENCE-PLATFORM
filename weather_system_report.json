@@ -1,0 +1,66 @@
+{
+    "generated_at": "2026-10-05T21:41:43.900929",
+    "quality_control_summary": {
+        "total": 120,
+        "valid": 118,
+        "quarantined": 2
+    },
+    "station_metrics": {
+        "STN_METRO_01": {
+            "sample_count": 24,
+            "avg_temp_c": 21.38,
+            "min_temp_c": 17.18,
+            "max_temp_c": 26.34,
+            "avg_wind_kmh": 17.7,
+            "max_wind_kmh": 48.72,
+            "total_precip_mm": 52.5,
+            "current_pressure_hpa": 1014.56,
+            "pressure_tendency_hpa": 0.12
+        },
+        "STN_COAST_02": {
+            "sample_count": 23,
+            "avg_temp_c": 19.71,
+            "min_temp_c": 15.61,
+            "max_temp_c": 25.26,
+            "avg_wind_kmh": 17.42,
+            "max_wind_kmh": 47.6,
+            "total_precip_mm": 8.7,
+            "current_pressure_hpa": 1014.41,
+            "pressure_tendency_hpa": -0.46
+        },
+        "STN_AIRPT_03": {
+            "sample_count": 24,
+            "avg_temp_c": 20.99,
+            "min_temp_c": 16.91,
+            "max_temp_c": 26.52,
+            "avg_wind_kmh": 18.04,
+            "max_wind_kmh": 47.99,
+            "total_precip_mm": 14.32,
+            "current_pressure_hpa": 1014.49,
+            "pressure_tendency_hpa": -0.31
+        },
+        "STN_HILLS_04": {
+            "sample_count": 23,
+            "avg_temp_c": 17.17,
+            "min_temp_c": 12.67,
+            "max_temp_c": 21.99,
+            "avg_wind_kmh": 17.79,
+            "max_wind_kmh": 49.13,
+            "total_precip_mm": 13.36,
+            "current_pressure_hpa": 1014.24,
+            "pressure_tendency_hpa": -0.18
+        },
+        "STN_SUBRB_05": {
+            "sample_count": 24,
+            "avg_temp_c": 20.43,
+            "min_temp_c": 15.97,
+            "max_temp_c": 25.73,
+            "avg_wind_kmh": 17.39,
+            "max_wind_kmh": 47.76,
+            "total_precip_mm": 55.61,
+            "current_pressure_hpa": 1014.7,
+            "pressure_tendency_hpa": 0.55
+        }
+    },
+    "active_alerts": []
+}
